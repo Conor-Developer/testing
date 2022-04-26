@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conor-Developer/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conor-Developer/testing/issues"
+  },
+  "homepage": "https://github.com/Conor-Developer/testing#readme",
+  "dependencies": {
+    "jest": "^28.0.1"
+  }
+}
